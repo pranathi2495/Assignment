@@ -1,0 +1,66 @@
+<!DOCTYPE html> 
+ <html> 
+ <head> 
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> 
+ 	<title>Acme Web Design</title> 
+ </head> 
+ <body> 
+      <header> 
+        <div id="branding"> 
+      	<h1><span class="highlight">Acme</span> Web Designs</h1> 
+        </div> 
+        <nav> 
+        	<ul> 
+        	   <li class="current"><a href="index.html">Home</a></li> 
+        	   <li><a href="about.html">About</a></li> 
+        	   <li><a href="services.html">Services</a></li> 
+        	</ul> 
+        </nav> 
+      </header> 
+      <section id="showcase"> 
+        <div class="container"> 
+            <img src="C:\Users\PNB\Pictures/code.jpg"> 
+           <h1>Welcome To Acme Web Solutions</h1> 
+           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem nisi error delectus, magnam doloremque natus rem nemo odit. Alias sequi consequatur incidunt vitae ducimus accusantium amet similique itaque placeat repudiandae!</p> 
+        </div> 
+      </section> 
+      <section id="newsletter"> 
+           <div class="container">
+            <img src="C:\Users\PNB\Pictures/webapp.png">  
+             <h1>Web & Application Development</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis quisquam odit neque cum eum, totam voluptatibus nesciunt maxime ut aperiam, nam delectus debitis aut non ullam, harum dolorem! Doloribus, voluptates.</p>
+           </div> 
+      </section> 
+      <section id="boxes"> 
+        	<div class="container"> 
+           <div class="box"> 
+          	  <img src="C:\Users\PNB\Pictures/webdev.jpg"> 
+          	  <h1>Web Development</h1> 
+          	  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse blanditiis iusto explicabo ratione incidunt culpa laudantium officia ea vitae labore. Illum perferendis quidem necessitatibus amet facilis magnam ut dolores aut?</p> 
+          		 
+             </div> 
+             <section id="boxes"> 
+          	<div class="box"> 
+          	  
+          	  <img src="C:\Users\PNB\Pictures/mobapp.jpg"> 
+          	  <h1>Mobile Application</h1> 
+          	  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias consequuntur dolorum eveniet est quisquam voluptatum assumenda! Labore beatae, ab impedit vero non sunt voluptate doloribus repudiandae earum, aut quo debitis!</p>
+ 
+          		 
+             </div> 
+             <section id="boxes"> 
+          	<div class="box"> 
+          	    
+          	   <img src="C:\Users\PNB\Pictures/techpark.jpg"> 
+          	   <h1>Tech Marking</h1> 
+          	   <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas unde corrupti sapiente delectus at doloribus error et officia tenetur? Dolor eius facere laboriosam tempore soluta vero quibusdam aliquid eos. Consequuntur?</p> 
+          	</div> 
+         </div> 
+      </section> 
+      <footer> 
+      	<p>Acme Web Design copyright &copy; 2017</p> 
+      </footer> 
+ </body> 
+ </html> 
